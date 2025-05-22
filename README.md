@@ -32,3 +32,8 @@
 - HTML, CSS (SB Admin Template)
 - JavaScript, jQuery
 - DOMPDF untuk export PDF
+
+
+## Akses User
+- username: user1
+- password: user1
