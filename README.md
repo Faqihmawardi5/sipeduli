@@ -32,9 +32,3 @@
 - HTML, CSS (SB Admin Template)
 - JavaScript, jQuery
 - DOMPDF untuk export PDF
-
-## Cara Instalasi
-
-1. Clone repositori ini ke folder XAMPP:
-   ```bash
-   git clone https://github.com/USERNAME/tugas_faqih.git /Applications/XAMPP/htdocs/mawardi/tugas_faqih
