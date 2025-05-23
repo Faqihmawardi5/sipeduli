@@ -1,0 +1,25 @@
+/* Footer */
+.footer-sipeduli {
+    background-color: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    padding: 25px 15px;
+    text-align: center;
+    font-size: 14px;
+    border-top: 3px solid #ffc107;
+    width: 100%;
+    margin-top: auto;
+}
+
+.footer-sipeduli a {
+    color: #ffc107;
+    text-decoration: none;
+}
+
+.footer-sipeduli a:hover {
+    text-decoration: underline;
+}
+
+.footer-sipeduli i {
+    margin-right: 6px;
+    color: #ffc107;
+}
